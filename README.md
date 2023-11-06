@@ -1,6 +1,6 @@
 # AdvancedAttentionMarker
-This modification displays the minimap ping on the 3D world.
-The distance to the ping is also visible when Alt-key is pressed.
+This modification displays the minimap ping on the 3D world.  
+The distance to the ping is also visible when Alt-key is pressed.  
 The mod is officially checked and approved by WG, thus is safe to use.
 
 # Overview
